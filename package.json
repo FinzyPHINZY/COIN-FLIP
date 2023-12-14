@@ -4,6 +4,7 @@
   "description": "CoinFlipper is a sleek and minimalistic implementation of a classic coin flip game that adds an extra layer of security and fairness by conducting the randomization process on the server side. This web-based application provides users with a straightforward and enjoyable experience of determining the outcome of a coin toss without the need for physical coins.",
   "main": "server.js",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   },
   "scripts": {
