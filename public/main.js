@@ -1,4 +1,4 @@
-document.querySelector("#result").addEventListener("click", makeReq);
+document.querySelector("button").addEventListener("click", makeReq);
 
 async function makeReq() {
   // const userName = document.querySelector("#username").value;
