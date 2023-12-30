@@ -1,4 +1,4 @@
-<!--
+<!-- 
 &lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 FinzyPHINZY/CoinFlipper is built on the following main stack:
@@ -21,8 +21,8 @@ FinzyPHINZY/CoinFlipper is built on the following main stack:
 
 Full tech stack [here](/techstack.md)
 
-&lt;--- Readme.md Snippet with images End ---&gt;
--->
+&lt;--- Readme.md Snippet with images End ---&gt; -->
+
 <div align="center">
 
 # Tech Stack File
